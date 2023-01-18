@@ -13,6 +13,7 @@ public class Cember extends Sekil {
 	}
 
 	public double alanHesaplamaCember() {
+
 		return yariCap*yariCap*3.14;
 	}
 

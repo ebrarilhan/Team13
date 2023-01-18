@@ -31,5 +31,21 @@ public class HalukMarket {
 		 */
 
 
+
+        /*
+        film tahmin-Zeynel Bey
+        javabank-Aziz Bey
+        ucus proje-Barbaros Bey
+        Okul yön-Gonca Hanım
+        Hastane-Ali Bey
+        Kitap yön-Selmina Hanım
+        Geometrik Hesaplamalar-Ebrar Hanım
+        Arac Kiralama-Said Bey
+
+
+         */
+
+
+
     }
 }

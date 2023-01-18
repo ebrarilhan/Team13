@@ -6,24 +6,31 @@ public class Sekil {
     double kisaKenar;
     double yariCap;
 
+
+    //constructor
     public Sekil(double uzunKenar, double kisaKenar) {
         this.uzunKenar = uzunKenar;
         this.kisaKenar = kisaKenar;
     }
 
+    //constructor
     public Sekil(double yariCap) {
+
         this.yariCap = yariCap;
     }
 
     public double cevreHesaplama() {
-       return (uzunKenar + kisaKenar) * 2;
+
+        return (uzunKenar + kisaKenar) * 2;
    }
 
     public double alanHesaplama() {
+
         return uzunKenar * kisaKenar;
     }
 
     public double alanHesaplamaCember() {
+
         return yariCap * yariCap * 3.14;
     }
 }
